@@ -1,5 +1,6 @@
 
 # Mindspire - Online Learning Platform
+**Link:** https://vimali-first-project.vercel.app/
 
 Mindspire is a simple and interactive website built using **HTML** and **CSS** to provide learners with resources and courses on various topics such as Web Development, Data Science, Cybersecurity, Machine Learning, Artificial Intelligence, and Digital Marketing.
 
@@ -36,7 +37,9 @@ Mindspire/
 
 ## 🛠 Tech Stack
 **Frontend:** HTML5, CSS3
+
 **Editor:** VS Code
+
 **Version Control:** Git & GitHub
 
 ---
